@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 快捷菜单 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP6CE0.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/快捷菜单.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\LX\我的文档2\VC6.0\快捷菜单\快捷菜单View.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSP6CE0.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP6CE1.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/快捷菜单.pdb" /debug /machine:I386 /out:"Debug/快捷菜单.exe" /pdbtype:sept 
+".\Debug\快捷菜单.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\快捷菜单Doc.obj"
+".\Debug\快捷菜单View.obj"
+".\Debug\快捷菜单.res"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSP6CE1.tmp"
+<h3>Output Window</h3>
+Compiling...
+快捷菜单View.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+快捷菜单.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

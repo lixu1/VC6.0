@@ -1,0 +1,54 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 显示对话框 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/显示对话框.res" /d "_DEBUG" /d "_AFXDLL" "C:\Users\LX\我的文档2\VC6.0\显示对话框\显示对话框.rc"" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP47FA.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/显示对话框.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\LX\我的文档2\VC6.0\显示对话框\显示对话框.cpp"
+"C:\Users\LX\我的文档2\VC6.0\显示对话框\MainFrm.cpp"
+"C:\Users\LX\我的文档2\VC6.0\显示对话框\显示对话框Doc.cpp"
+"C:\Users\LX\我的文档2\VC6.0\显示对话框\显示对话框View.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSP47FA.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP47FB.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/显示对话框.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\LX\我的文档2\VC6.0\显示对话框\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSP47FB.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP47FC.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/显示对话框.pdb" /debug /machine:I386 /out:"Debug/显示对话框.exe" /pdbtype:sept 
+".\Debug\显示对话框.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\显示对话框Doc.obj"
+".\Debug\显示对话框View.obj"
+".\Debug\显示对话框.res"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSP47FC.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+显示对话框.cpp
+MainFrm.cpp
+显示对话框Doc.cpp
+显示对话框View.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+显示对话框.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

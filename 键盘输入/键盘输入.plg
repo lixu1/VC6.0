@@ -1,0 +1,54 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 键盘输入 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/键盘输入.res" /d "_DEBUG" /d "_AFXDLL" "C:\Users\LX\我的文档2\VC6.0\键盘输入\键盘输入.rc"" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSPD4AB.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/键盘输入.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\LX\我的文档2\VC6.0\键盘输入\键盘输入.cpp"
+"C:\Users\LX\我的文档2\VC6.0\键盘输入\MainFrm.cpp"
+"C:\Users\LX\我的文档2\VC6.0\键盘输入\键盘输入Doc.cpp"
+"C:\Users\LX\我的文档2\VC6.0\键盘输入\键盘输入View.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSPD4AB.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSPD4AC.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/键盘输入.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\LX\我的文档2\VC6.0\键盘输入\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSPD4AC.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSPD4AD.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/键盘输入.pdb" /debug /machine:I386 /out:"Debug/键盘输入.exe" /pdbtype:sept 
+".\Debug\键盘输入.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\键盘输入Doc.obj"
+".\Debug\键盘输入View.obj"
+".\Debug\键盘输入.res"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSPD4AD.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+键盘输入.cpp
+MainFrm.cpp
+键盘输入Doc.cpp
+键盘输入View.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+键盘输入.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

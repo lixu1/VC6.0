@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 动态添加菜单项 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP2819.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/动态添加菜单项.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\USERS\LX\我的文档2\VC6.0\动态添加菜单项\MainFrm.cpp"
+"C:\USERS\LX\我的文档2\VC6.0\动态添加菜单项\动态添加菜单项.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSP2819.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP281A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/动态添加菜单项.pdb" /debug /machine:I386 /out:"Debug/动态添加菜单项.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\动态添加菜单项.obj"
+".\Debug\动态添加菜单项Doc.obj"
+".\Debug\动态添加菜单项View.obj"
+".\Debug\动态添加菜单项.res"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSP281A.tmp"
+<h3>Output Window</h3>
+Compiling...
+MainFrm.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+动态添加菜单项.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+动态添加菜单项.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

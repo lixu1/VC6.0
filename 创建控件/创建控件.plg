@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 创建控件 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP8A41.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/创建控件.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\LX\我的文档2\VC6.0\创建控件\创建控件.cpp"
+"C:\Users\LX\我的文档2\VC6.0\创建控件\MyDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSP8A41.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP8A42.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/创建控件.pdb" /debug /machine:I386 /out:"Debug/创建控件.exe" /pdbtype:sept 
+".\Debug\创建控件.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\创建控件Doc.obj"
+".\Debug\创建控件View.obj"
+".\Debug\创建控件.res"
+".\Debug\MyDlg.obj"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSP8A42.tmp"
+<h3>Output Window</h3>
+Compiling...
+MyDlg.cpp
+Generating Code...
+Compiling...
+创建控件.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+创建控件.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

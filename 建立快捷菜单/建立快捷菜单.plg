@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 建立快捷菜单 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSPC078.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/建立快捷菜单.pdb" /debug /machine:I386 /out:"Debug/建立快捷菜单.exe" /pdbtype:sept 
+".\Debug\建立快捷菜单.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\建立快捷菜单Doc.obj"
+".\Debug\建立快捷菜单View.obj"
+".\Debug\建立快捷菜单.res"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSPC078.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+建立快捷菜单.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

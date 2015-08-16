@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 无模式对话框 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP88D6.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/无模式对话框.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\LX\我的文档2\VC6.0\无模式对话框\无模式对话框View.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSP88D6.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP88D7.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/无模式对话框.pdb" /debug /machine:I386 /out:"Debug/无模式对话框.exe" /pdbtype:sept 
+".\Debug\无模式对话框.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\无模式对话框Doc.obj"
+".\Debug\无模式对话框View.obj"
+".\Debug\无模式对话框.res"
+".\Debug\Dlg.obj"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSP88D7.tmp"
+<h3>Output Window</h3>
+Compiling...
+无模式对话框View.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+无模式对话框.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

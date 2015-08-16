@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 状态栏风格 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSPC9BC.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/状态栏风格.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\LX\我的文档2\VC6.0\状态栏风格\状态栏风格View.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSPC9BC.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSPC9BD.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/状态栏风格.pdb" /debug /machine:I386 /out:"Debug/状态栏风格.exe" /pdbtype:sept 
+".\Debug\状态栏风格.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\状态栏风格Doc.obj"
+".\Debug\状态栏风格View.obj"
+".\Debug\状态栏风格.res"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSPC9BD.tmp"
+<h3>Output Window</h3>
+Compiling...
+状态栏风格View.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+状态栏风格.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

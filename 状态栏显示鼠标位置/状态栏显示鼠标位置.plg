@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 状态栏显示鼠标位置 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP38BE.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/状态栏显示鼠标位置.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\USERS\LX\我的文档2\VC6.0\状态栏显示鼠标位置\状态栏显示鼠标位置View.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSP38BE.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP38BF.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/状态栏显示鼠标位置.pdb" /debug /machine:I386 /out:"Debug/状态栏显示鼠标位置.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\状态栏显示鼠标位置.obj"
+".\Debug\状态栏显示鼠标位置Doc.obj"
+".\Debug\状态栏显示鼠标位置View.obj"
+".\Debug\状态栏显示鼠标位置.res"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSP38BF.tmp"
+<h3>Output Window</h3>
+Compiling...
+状态栏显示鼠标位置View.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+状态栏显示鼠标位置.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

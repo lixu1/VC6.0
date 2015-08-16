@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 学生信息 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP7E3D.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/学生信息.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\LX\我的文档2\VC6.0\学生信息\学生信息View.cpp"
+]
+Creating command line "cl.exe @C:\Users\LX\AppData\Local\Temp\RSP7E3D.tmp" 
+Creating temporary file "C:\Users\LX\AppData\Local\Temp\RSP7E3E.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/学生信息.pdb" /debug /machine:I386 /out:"Debug/学生信息.exe" /pdbtype:sept 
+".\Debug\学生信息.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\学生信息Doc.obj"
+".\Debug\学生信息View.obj"
+".\Debug\学生信息.res"
+]
+Creating command line "link.exe @C:\Users\LX\AppData\Local\Temp\RSP7E3E.tmp"
+<h3>Output Window</h3>
+Compiling...
+学生信息View.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+学生信息.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
